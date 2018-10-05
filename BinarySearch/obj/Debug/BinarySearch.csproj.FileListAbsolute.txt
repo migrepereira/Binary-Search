@@ -1,0 +1,7 @@
+C:\Users\migre\OneDrive\Documents\Programming\C#\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\migre\OneDrive\Documents\Programming\C#\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\migre\OneDrive\Documents\Programming\C#\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\migre\OneDrive\Documents\Programming\C#\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\migre\OneDrive\Documents\Programming\C#\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\migre\OneDrive\Documents\Programming\C#\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\migre\OneDrive\Documents\Programming\C#\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
